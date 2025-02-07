@@ -1,0 +1,53 @@
+{
+  "app_name": "Baby360",
+  "navigation": {
+    "baby": "Baby",
+    "feeding": "Ernährung",
+    "health": "Gesundheit",
+    "profile": "Profil"
+  },
+  "baby_dashboard": {
+    "title": "Baby-Dashboard",
+    "age": "{} Monate alt",
+    "height": "Größe",
+    "weight": "Gewicht",
+    "head_circumference": "Kopfumfang",
+    "daily_activities": "Tägliche Aktivitäten"
+  },
+  "feeding": {
+    "title": "Ernährungstracker",
+    "breast_milk": "Muttermilch",
+    "formula": "Säuglingsnahrung",
+    "food": "Beikost",
+    "add_record": "Neuer Eintrag",
+    "amount": "Menge",
+    "time": "Zeit",
+    "note": "Notiz"
+  },
+  "health": {
+    "title": "Gesundheitstracker",
+    "vaccinations": "Impfungen",
+    "doctor_visits": "Arzt",
+    "medications": "Medikamente",
+    "add_record": "Neuer Eintrag",
+    "completed": "Abgeschlossen",
+    "planned": "Geplant"
+  },
+  "profile": {
+    "title": "Profil",
+    "edit_profile": "Profil bearbeiten",
+    "menu": "Menü",
+    "favorites": "Favoriten",
+    "notifications": "Benachrichtigungen",
+    "share": "Teilen",
+    "settings": "Einstellungen",
+    "theme": "Design",
+    "theme_system": "System",
+    "theme_light": "Hell",
+    "theme_dark": "Dunkel",
+    "language": "Sprache",
+    "privacy": "Datenschutz",
+    "help": "Hilfe",
+    "logout": "Abmelden"
+  }
+} 

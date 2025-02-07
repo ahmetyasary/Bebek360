@@ -1,0 +1,53 @@
+{
+  "app_name": "Baby360",
+  "navigation": {
+    "baby": "Bébé",
+    "feeding": "Alimentation",
+    "health": "Santé",
+    "profile": "Profil"
+  },
+  "baby_dashboard": {
+    "title": "Tableau de bord bébé",
+    "age": "{} mois",
+    "height": "Taille",
+    "weight": "Poids",
+    "head_circumference": "Périmètre crânien",
+    "daily_activities": "Activités quotidiennes"
+  },
+  "feeding": {
+    "title": "Suivi de l'alimentation",
+    "breast_milk": "Lait maternel",
+    "formula": "Lait en poudre",
+    "food": "Aliments solides",
+    "add_record": "Nouvel enregistrement",
+    "amount": "Quantité",
+    "time": "Heure",
+    "note": "Note"
+  },
+  "health": {
+    "title": "Suivi de santé",
+    "vaccinations": "Vaccinations",
+    "doctor_visits": "Médecin",
+    "medications": "Médicaments",
+    "add_record": "Nouvel enregistrement",
+    "completed": "Terminé",
+    "planned": "Planifié"
+  },
+  "profile": {
+    "title": "Profil",
+    "edit_profile": "Modifier le profil",
+    "menu": "Menu",
+    "favorites": "Favoris",
+    "notifications": "Notifications",
+    "share": "Partager",
+    "settings": "Paramètres",
+    "theme": "Thème",
+    "theme_system": "Système",
+    "theme_light": "Clair",
+    "theme_dark": "Sombre",
+    "language": "Langue",
+    "privacy": "Confidentialité",
+    "help": "Aide",
+    "logout": "Déconnexion"
+  }
+} 

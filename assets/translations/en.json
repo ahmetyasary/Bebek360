@@ -1,0 +1,53 @@
+{
+  "app_name": "Baby360",
+  "navigation": {
+    "baby": "Baby",
+    "feeding": "Feeding",
+    "health": "Health",
+    "profile": "Profile"
+  },
+  "baby_dashboard": {
+    "title": "Baby Dashboard",
+    "age": "{} months old",
+    "height": "Height",
+    "weight": "Weight",
+    "head_circumference": "Head Circumference",
+    "daily_activities": "Daily Activities"
+  },
+  "feeding": {
+    "title": "Feeding Tracker",
+    "breast_milk": "Breast Milk",
+    "formula": "Formula",
+    "food": "Solid Food",
+    "add_record": "New Record",
+    "amount": "Amount",
+    "time": "Time",
+    "note": "Note"
+  },
+  "health": {
+    "title": "Health Tracker",
+    "vaccinations": "Vaccinations",
+    "doctor_visits": "Doctor",
+    "medications": "Medications",
+    "add_record": "New Record",
+    "completed": "Completed",
+    "planned": "Planned"
+  },
+  "profile": {
+    "title": "Profile",
+    "edit_profile": "Edit Profile",
+    "menu": "Menu",
+    "favorites": "Favorites",
+    "notifications": "Notifications",
+    "share": "Share",
+    "settings": "Settings",
+    "theme": "Theme",
+    "theme_system": "System",
+    "theme_light": "Light",
+    "theme_dark": "Dark",
+    "language": "Language",
+    "privacy": "Privacy",
+    "help": "Help",
+    "logout": "Logout"
+  }
+} 

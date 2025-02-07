@@ -1,0 +1,53 @@
+{
+  "app_name": "Baby360",
+  "navigation": {
+    "baby": "Малыш",
+    "feeding": "Кормление",
+    "health": "Здоровье",
+    "profile": "Профиль"
+  },
+  "baby_dashboard": {
+    "title": "Панель малыша",
+    "age": "{} месяцев",
+    "height": "Рост",
+    "weight": "Вес",
+    "head_circumference": "Окружность головы",
+    "daily_activities": "Ежедневные действия"
+  },
+  "feeding": {
+    "title": "Отслеживание кормления",
+    "breast_milk": "Грудное молоко",
+    "formula": "Смесь",
+    "food": "Твердая пища",
+    "add_record": "Новая запись",
+    "amount": "Количество",
+    "time": "Время",
+    "note": "Заметка"
+  },
+  "health": {
+    "title": "Отслеживание здоровья",
+    "vaccinations": "Прививки",
+    "doctor_visits": "Врач",
+    "medications": "Лекарства",
+    "add_record": "Новая запись",
+    "completed": "Завершено",
+    "planned": "Запланировано"
+  },
+  "profile": {
+    "title": "Профиль",
+    "edit_profile": "Редактировать профиль",
+    "menu": "Меню",
+    "favorites": "Избранное",
+    "notifications": "Уведомления",
+    "share": "Поделиться",
+    "settings": "Настройки",
+    "theme": "Тема",
+    "theme_system": "Системная",
+    "theme_light": "Светлая",
+    "theme_dark": "Темная",
+    "language": "Язык",
+    "privacy": "Конфиденциальность",
+    "help": "Помощь",
+    "logout": "Выйти"
+  }
+} 

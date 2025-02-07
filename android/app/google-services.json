@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468186522687",
+    "project_id": "bebek360-f7e7f",
+    "storage_bucket": "bebek360-f7e7f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468186522687:android:1297cc8c93610d1724048a",
+        "android_client_info": {
+          "package_name": "com.bebek360.bebek360"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBWDv7qz6Y5V4KaFoYNCzBz5VNI6yGaYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

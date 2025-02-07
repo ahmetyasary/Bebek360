@@ -1,0 +1,53 @@
+{
+  "app_name": "Bebek360",
+  "navigation": {
+    "baby": "Bebek",
+    "feeding": "Beslenme",
+    "health": "Sağlık",
+    "profile": "Profil"
+  },
+  "baby_dashboard": {
+    "title": "Bebek Paneli",
+    "age": "{} aylık",
+    "height": "Boy",
+    "weight": "Kilo",
+    "head_circumference": "Baş Çevresi",
+    "daily_activities": "Günlük Aktiviteler"
+  },
+  "feeding": {
+    "title": "Beslenme Takibi",
+    "breast_milk": "Anne Sütü",
+    "formula": "Mama",
+    "food": "Ek Gıda",
+    "add_record": "Yeni Kayıt",
+    "amount": "Miktar",
+    "time": "Saat",
+    "note": "Not"
+  },
+  "health": {
+    "title": "Sağlık Takibi",
+    "vaccinations": "Aşılar",
+    "doctor_visits": "Doktor",
+    "medications": "İlaçlar",
+    "add_record": "Yeni Kayıt",
+    "completed": "Tamamlandı",
+    "planned": "Planlandı"
+  },
+  "profile": {
+    "title": "Profil",
+    "edit_profile": "Profili Düzenle",
+    "menu": "Menü",
+    "favorites": "Favoriler",
+    "notifications": "Bildirimler",
+    "share": "Paylaş",
+    "settings": "Ayarlar",
+    "theme": "Tema",
+    "theme_system": "Sistem",
+    "theme_light": "Açık",
+    "theme_dark": "Koyu",
+    "language": "Dil",
+    "privacy": "Gizlilik",
+    "help": "Yardım",
+    "logout": "Çıkış Yap"
+  }
+} 
